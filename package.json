@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-ssumkbn2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.",
   "license": "Apache-2.0",
   "author": {
