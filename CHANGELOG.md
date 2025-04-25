@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`9cb8df6`](https://github.com/stdlib-js/stdlib/commit/9cb8df6d6c62cb49e58261cd67a44db8b7872087) - **test:** fix missing `opts` argument _(by Athan Reines)_
+-   [`2c27a58`](https://github.com/stdlib-js/stdlib/commit/2c27a5806960dad88da5212d768034de3779b3fa) - **test:** add zeros tests _(by Athan Reines)_
 -   [`9c66f54`](https://github.com/stdlib-js/stdlib/commit/9c66f540e94405d3f8a3c97677274012b0478174) - **feat:** add C `ndarray` API and refactor `blas/ext/base/ssumkbn2` [(#4870)](https://github.com/stdlib-js/stdlib/pull/4870) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 
@@ -35,8 +37,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
 
