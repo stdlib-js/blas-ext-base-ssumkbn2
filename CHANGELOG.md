@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`9cb8df6`](https://github.com/stdlib-js/stdlib/commit/9cb8df6d6c62cb49e58261cd67a44db8b7872087) - **test:** fix missing `opts` argument _(by Athan Reines)_
 -   [`2c27a58`](https://github.com/stdlib-js/stdlib/commit/2c27a5806960dad88da5212d768034de3779b3fa) - **test:** add zeros tests _(by Athan Reines)_
 -   [`9c66f54`](https://github.com/stdlib-js/stdlib/commit/9c66f540e94405d3f8a3c97677274012b0478174) - **feat:** add C `ndarray` API and refactor `blas/ext/base/ssumkbn2` [(#4870)](https://github.com/stdlib-js/stdlib/pull/4870) _(by Muhammad Haris)_
