@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`bb16002`](https://github.com/stdlib-js/stdlib/commit/bb16002f4d99f329f2811799997f169a45bef61b) - address pointer increment bug
+-   [`1bbd885`](https://github.com/stdlib-js/stdlib/commit/1bbd885b09162dac5d8989b79541c528e3827757) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`bb16002`](https://github.com/stdlib-js/stdlib/commit/bb16002f4d99f329f2811799997f169a45bef61b) - **fix:** address pointer increment bug _(by Athan Reines)_
+-   [`1bbd885`](https://github.com/stdlib-js/stdlib/commit/1bbd885b09162dac5d8989b79541c528e3827757) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`9cb8df6`](https://github.com/stdlib-js/stdlib/commit/9cb8df6d6c62cb49e58261cd67a44db8b7872087) - **test:** fix missing `opts` argument _(by Athan Reines)_
 -   [`2c27a58`](https://github.com/stdlib-js/stdlib/commit/2c27a5806960dad88da5212d768034de3779b3fa) - **test:** add zeros tests _(by Athan Reines)_
