@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-ssumkbn2",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Calculate the sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.",
   "license": "Apache-2.0",
   "author": {
@@ -42,17 +42,17 @@
   },
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
-    "@stdlib/blas-base-shared": "^0.1.0",
+    "@stdlib/blas-base-shared": "^0.2.0",
     "@stdlib/math-base-special-absf": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-int64": "^0.2.2",
     "@stdlib/napi-argv-strided-float32array": "^0.2.2",
     "@stdlib/napi-create-double": "^0.0.2",
-    "@stdlib/napi-export": "^0.2.2",
+    "@stdlib/napi-export": "^0.3.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
     "@stdlib/strided-base-stride2offset": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/utils-library-manifest": "^0.2.3",
     "@stdlib/utils-try-require": "^0.2.2"
   },
   "devDependencies": {
@@ -107,9 +107,6 @@
     "single",
     "float32array"
   ],
-  "__stdlib__": {
-    "wasm": false
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"

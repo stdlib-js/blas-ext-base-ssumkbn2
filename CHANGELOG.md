@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-30)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`bb16002`](https://github.com/stdlib-js/stdlib/commit/bb16002f4d99f329f2811799997f169a45bef61b) - **fix:** address pointer increment bug _(by Athan Reines)_
 -   [`1bbd885`](https://github.com/stdlib-js/stdlib/commit/1bbd885b09162dac5d8989b79541c528e3827757) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
