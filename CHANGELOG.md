@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5059f23`](https://github.com/stdlib-js/stdlib/commit/5059f2330c008e2a97f8d8a3931d23536d38c6a0) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/ssumkbn2` [(#10774)](https://github.com/stdlib-js/stdlib/pull/10774) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
